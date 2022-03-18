@@ -1,4 +1,4 @@
-Тестирование JavaCore:
-OOP
-Generics
-Structure data type 
+Использование JavaCore, Maven:
+OOP,
+Generics,
+Structure data type.
