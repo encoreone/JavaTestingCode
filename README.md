@@ -1,4 +1,4 @@
-Использование JavaCore, Maven:
+JavaCore, Maven:
 OOP,
 Generics,
 Structure data type.
